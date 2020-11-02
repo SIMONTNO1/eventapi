@@ -1,0 +1,10 @@
+product id
+product name
+要抓
+要定的人 userid
+日期 datetimenow
+
+可輸入
+ 數量
+
+顯示總價
