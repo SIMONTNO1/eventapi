@@ -8,3 +8,4 @@ product name
  數量
 
 顯示總價
+123
